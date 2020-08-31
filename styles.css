@@ -22,7 +22,7 @@ th, td {
     padding: 8px;
 }
 
-button {
+#button_switch_mode {
     background-color: #37474f;
     border: none;
     font-family: montserrat, sans-serif;

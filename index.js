@@ -5,7 +5,7 @@ function switchMode() {
         applyMode(
             "Switch to dark mode",
             "light",
-            "#eceff1",
+            "#b0bec5",
             "#1a2429",
             "#b0bec5",
             "black",
